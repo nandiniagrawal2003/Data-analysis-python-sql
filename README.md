@@ -1,2 +1,36 @@
-# Data-analysis-python-sql
-This file is all about analyzing different operations on database of E-commerce website.
+# E-commerce Data Analysis Project
+
+## Overview
+
+This project involves analyzing data from an e-commerce website using Python and SQL. The analysis is conducted by framing 15 key questions related to the data and answering them directly. The goal is to gain insights into various aspects of the e-commerce platform, such as customer behavior, product performance, and sales trends.
+
+## Features
+
+- **Question-Based Analysis**: The project is structured around 15 specific questions about the e-commerce data, each of which is answered with insights derived from the data.
+- **SQL Queries**: Used to extract relevant information from the e-commerce database.
+- **Data Interpretation**: Clear explanations provided for each question based on the query results.
+
+## Technologies Used
+
+- **Python**: For processing and scripting.
+- **SQL**: For querying the database and retrieving data.
+- **Pandas**: For data manipulation (if applicable).
+- **Jupyter Notebook**: For documenting questions, queries, and answers.
+- **SQLite/MySQL/PostgreSQL**: For storing and querying the e-commerce data.
+
+## Screenshots
+# Screenshot 1
+![Alt text](./screenshots/ss1.png)
+
+# Screenshot 2
+![Alt text](./screenshots/ss2.png)
+
+# Screenshot 3
+![Alt text](./screenshots/ss3.png)
+
+## Installation
+
+To run this project locally, you'll need to have Python installed along with the required libraries. You can install the dependencies using `pip`:
+
+```bash
+pip install -r requirements.txt
