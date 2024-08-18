@@ -19,18 +19,30 @@ This project involves analyzing data from an e-commerce website using Python and
 - **SQLite/MySQL/PostgreSQL**: For storing and querying the e-commerce data.
 
 ## Screenshots
-# Screenshot 1
+Screenshot 1
 ![Alt text](./screenshots/ss1.png)
 
-# Screenshot 2
+Screenshot 2
 ![Alt text](./screenshots/ss2.png)
 
-# Screenshot 3
+Screenshot 3
 ![Alt text](./screenshots/ss3.png)
 
 ## Installation
 
 To run this project locally, you'll need to have Python installed along with the required libraries. You can install the dependencies using `pip`:
 
-```bash
-pip install -r requirements.txt
+## Usage
+1. Clone the repository:
+
+2. Set up the SQL database and ensure the connection details are correct in the config.py file.
+
+3. Run the Jupyter Notebook
+
+4. Open the notebook files to review the questions and corresponding answers.
+
+## Contributing
+Feel free to submit issues or pull requests if you have any improvements or suggestions.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
