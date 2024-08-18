@@ -16,7 +16,7 @@ This project involves analyzing data from an e-commerce website using Python and
 - **SQL**: For querying the database and retrieving data.
 - **Pandas**: For data manipulation (if applicable).
 - **Jupyter Notebook**: For documenting questions, queries, and answers.
-- **SQLite/MySQL/PostgreSQL**: For storing and querying the e-commerce data.
+- **MySQL**: For storing and querying the e-commerce data.
 
 ## Screenshots
 Screenshot 1
